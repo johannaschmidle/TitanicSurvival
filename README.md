@@ -58,9 +58,9 @@ Submissions are evaluated on **accuracy**. The score is the percentage of passen
 - Correct: 137
 - Incorrect: 42
 ### Model 5: Adaptive Boost
-- Best Score: 0.817
-- Correct: 136
-- Incorrect: 43
+- Best Score: 0.819
+- Correct: 137
+- Incorrect: 42
 
 ## Data
 The dataset used in this project is available publicly on Kaggle: [https://www.kaggle.com/competitions/titanic/data](https://www.kaggle.com/competitions/titanic/data)
