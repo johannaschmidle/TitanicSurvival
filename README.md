@@ -76,4 +76,4 @@ The dataset used in this project is available publicly on Kaggle: [https://www.k
 Python
 - pandas, numpy, matplotlib, seaborn
 - sklearn (OrdinalEncoder, OneHotEncoder, SimpleImputer, make_column_transformer, ColumnTransformer, Pipeline, LogisticRegression, DecisionTreeClassifier, KNeighborsClassifier, RandomForestClassifier, AdaBoostClassifier, cross_val_score, GridSearchCV, ConfusionMatrixDisplay)
-- xgboost
+- XGBoost
