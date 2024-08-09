@@ -62,6 +62,13 @@ Submissions are evaluated on **accuracy**. The score is the percentage of passen
 - Correct: 137
 - Incorrect: 42
 
+## Competition Scores (Best to Worst)
+- Model 4: XGBoost - **0.76555**
+- Model 2: Logistic Regression - **0.76794**
+- Model 5: Adaptive Boost - **0.77751**
+- Model 3: K-Nearest Neighbours - **0.77990**
+- Model 1: Random Forest Regressor - **0.78229**
+  
 ## Data
 The dataset used in this project is available publicly on Kaggle: [https://www.kaggle.com/competitions/titanic/data](https://www.kaggle.com/competitions/titanic/data)
 
