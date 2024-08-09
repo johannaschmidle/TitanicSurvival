@@ -42,9 +42,9 @@ Submissions are evaluated on **accuracy**. The score is the percentage of passen
 
 ## Result of Model Evaluations
 ### Model 1: Random Forest Regressor
-- Best Score: 0.836
-- Correct: 137
-- Incorrect: 42
+- Best Score: 0.834
+- Correct: 138
+- Incorrect: 41
 ### Model 2: Logistic Regression
 - Best Score: 0.795
 - Correct:  141
