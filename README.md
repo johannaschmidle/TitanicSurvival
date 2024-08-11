@@ -7,7 +7,7 @@ This repository has my code for my [competition submission](https://www.kaggle.c
 
 ## Motivation
 **Goal:** build a machine learning model to predict if a passenger survived the sinking of the Titanic or not.
-For each in the test set, you must predict a 0 or 1 value for the variable (Classifier).
+For each instance in the test set, you must predict a 0 or 1 value for the target variable (Classifier).
 
 ## Metric
 Submissions are evaluated on **accuracy**. The score is the percentage of passengers you correctly predict (this is known as accuracy).
