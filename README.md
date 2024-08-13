@@ -15,13 +15,13 @@ Submissions are evaluated on **accuracy**. The score is the percentage of passen
 ## Steps 
 1. **EDA**
 2. **Feature Engineering**
-    - Family Size: Larger families might have different survival rates compared to solo travelers.
-    - Person's Title: (ex. Ms, Mr) Titles can provide insight into age, gender, and social status, which might affect survival chances.
-    - Cabin Deck: The deck could correlate with proximity to lifeboats and thus survival rates.
-    - Cabin Assigned: Passengers who have not been assigned a cabin might have different survival probabilities compared to those with recorded cabin details.
-    - Age Group: Different age groups might have had different survival probabilities.
-    - Fare Price Groups: I will create different groups of fare price, which can capture non-linear relationships between fare and survival.
-    - Name Length: Especially in the early 1900s a person with a longer name could indicate importance which can impact survival rate
+    - **Family Size:** Larger families might have different survival rates compared to solo travelers.
+    - **Person's Title:** (ex. Ms, Mr) Titles can provide insight into age, gender, and social status, which might affect survival chances.
+    - **Cabin Deck:** The deck could correlate with proximity to lifeboats and thus survival rates.
+    - **Cabin Assigned:** Passengers who have not been assigned a cabin might have different survival probabilities compared to those with recorded cabin details.
+    - **Age Group:** Different age groups might have had different survival probabilities.
+    - **Fare Price Groups:** I will create different groups of fare price, which can capture non-linear relationships between fare and survival.
+    - **Name Length:** Especially in the early 1900s a person with a longer name could indicate importance which can impact survival rate
 4. **Preprocessing**
     1. Dealing With Nulls
     2. Split the Data
